@@ -1,5 +1,5 @@
 
-# Incubyte-Assessment-Assignment
+# Data Engineering task
 
 This repository made to show the  implementation of given Assessment task realted to Data ingestion pipeline to upload from CSV to Mysql and its working is been demonstarted using bare minimum tools possible. A dummy dataset is been created for the task. The scripts after loading data in server, retrived it using country based filteration and exports different CSVs.
 
